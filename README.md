@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Santika!👋
 
 <!--
 **santikaameyliap/santikaameyliap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Applied Data Science Graduate | 💡 Passionate about uncovering insights from data  
+I'm a data enthusiast with hands-on experience in machine learning, data visualization, and sentiment analysis projects — especially using Python, Streamlit, and FastAPI. I enjoy working across disciplines and simplifying complex data stories for real impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- 💻 Languages: Python, SQL  
+- 📄 Data: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn   
+- 🧪 Backend & Deployment: FastAPI, Streamlit, PostgreSQL
+- 📊 Visualization Tools: Excel, Power BI, Microstrategy
+
+
+### 📌 Featured Projects
+
+- [📊 Sentiment & Topic Classification Dashboard](https://github.com/username/sentiment-dashboard)  
+  Dashboard interaktif dengan Streamlit untuk klasifikasi sentimen komentar Instagram menggunakan TF-IDF & Word2Vec.
