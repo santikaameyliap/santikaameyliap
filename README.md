@@ -13,8 +13,8 @@ I'm a data enthusiast with hands-on experience in machine learning, data visuali
 
 ### 📌 Featured Projects
 
-- [📊 Sentiment & Topic Classification Dashboard](https://github.com/username/sentiment-dashboard)  
-  Dashboard interaktif dengan Streamlit untuk klasifikasi sentimen komentar Instagram menggunakan TF-IDF & Word2Vec.
+- [📊 Dashboard Analysis of Quality Education in Kediri](https://github.com/santikaameyliap/quality-education-dashboard-kediri)  
+  Dashboard interaktif dengan Power BI untuk menampilkan kualitas pendidikan kota Kediri.
   
 <!--
 **santikaameyliap/santikaameyliap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
